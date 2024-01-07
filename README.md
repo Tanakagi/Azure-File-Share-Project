@@ -1,7 +1,5 @@
 # Azure-File-Share-Project
 In this project, I used the Azure portal and CLI to create a File Share to upload local files to my Azure Directory.
-<h1>Virtual Network Environment for Virtual Machines to communicate with each other</h1>
-
 
 <h2>Environments Used </h2>
 
