@@ -1,5 +1,5 @@
 # Azure-File-Share-Project
-In this project, I used the Azure portal and CLI to create a File Share to upload local files to my Azure Directory.
+In this project, I used the Azure portal and CLI to create a File Share to upload my local files to my Azure Directory.
 
 <h2>Environments Used </h2>
 
