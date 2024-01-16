@@ -1,0 +1,2 @@
+az storage share-rm create --resource-group datacenterhq1 --storage-account storesyncrsa --name "fileshare1rsa" --quota 1024 
+--enable-protocols SMB --output none
