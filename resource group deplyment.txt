@@ -1,0 +1,1 @@
+az group create --name "datacenterhq1" --location southafricanorth --output none

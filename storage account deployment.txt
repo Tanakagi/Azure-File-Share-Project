@@ -1,0 +1,2 @@
+az storage account create --resource-group datacenterhq1 --name "storesyncrsa" --location southafricanorth
+--kind StorageV2 --sku Standard_LRS --enable-large-file-share --output none
